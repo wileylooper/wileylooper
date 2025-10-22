@@ -2,6 +2,10 @@
 
 <table>
   <tr>
+    <td><a href="https://github.com/wileylooper/blastcircuit"><img alt="BlastCircuit" src="https://github.com/wileylooper/wileylooper/blob/master/blastcircuit.png" style="width: 40px;"></a></td>
+    <td><a href="https://github.com/wileylooper/blastcircuit">BlastCircuit</a> is a large-period, statistically-strong, tiny, ultra-fast PRNG.</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/wileylooper/flurryburst"><img alt="FlurryBurst" src="https://github.com/wileylooper/wileylooper/blob/master/flurryburst.png" style="width: 40px;"></a></td>
     <td><a href="https://github.com/wileylooper/flurryburst">FlurryBurst</a> is a large-period, statistically-strong, ultra-fast PRNG.</td>
   </tr>
