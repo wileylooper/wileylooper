@@ -25,6 +25,10 @@
     <td><a href="https://github.com/wileylooper/stormdrop"><img alt="StormDrop" src="https://github.com/wileylooper/wileylooper/blob/master/stormdrop.png" style="width: 40px;"></a></td>
     <td><a href="https://github.com/wileylooper/stormdrop">StormDrop</a> is a huge-period, statistically-strong, ultra-fast PRNG.</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/wileylooper/wavesplat"><img alt="WaveSplat" src="https://github.com/wileylooper/wileylooper/blob/master/wavesplat.png" style="width: 40px;"></a></td>
+    <td><a href="https://github.com/wileylooper/wavesplat">WaveSplat</a> is a small-period, tiny, ultra-fast PRNG with minimal mixing.</td>
+  </tr>
 </table>
 
 #### C#
@@ -41,10 +45,6 @@
   <tr>
     <td><a href="https://wileylooper.medium.com/regressionsearch-an-ultra-fast-binary-search-9345ae27fe98"><img alt="RegressionSearch" src="https://github.com/wileylooper/wileylooper/blob/master/regressionsearch.png" style="width: 40px;"></a></td>
     <td><a href="https://wileylooper.medium.com/regressionsearch-an-ultra-fast-binary-search-9345ae27fe98">RegressionSearch</a> is a non-interpolated, ultra-fast Binary Search.</td>
-  </tr>
-  <tr>
-    <td><a href="https://wileylooper.medium.com/wavesplat-an-ultra-fast-prng-with-minimal-mixing-f2216a2e0070"><img alt="WaveSplat" src="https://github.com/wileylooper/wileylooper/blob/master/wavesplat.png" style="width: 40px;"></a></td>
-    <td><a href="https://wileylooper.medium.com/wavesplat-an-ultra-fast-prng-with-minimal-mixing-f2216a2e0070">WaveSplat</a> is a small-period, tiny, ultra-fast PRNG with minimal mixing.</td>
   </tr>
 </table>
 
