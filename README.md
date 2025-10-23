@@ -39,8 +39,8 @@
     <td><a href="https://wileylooper.medium.com/chargesearch-an-ultra-fast-linear-search-eefcc02e283b">ChargeSearch</a> is an ultra-fast Linear Search.</td>
   </tr>
   <tr>
-    <td><a href="https://wileylooper.medium.com/meteorsort-an-ultra-fast-shell-sort-gap-sequence-ec13794b336b"><img alt="MeteorSort" src="https://github.com/wileylooper/wileylooper/blob/master/meteorsort.png" style="width: 40px;"></a></td>
-    <td><a href="https://wileylooper.medium.com/meteorsort-an-ultra-fast-shell-sort-gap-sequence-ec13794b336b">MeteorSort</a> is a non-auxiliary, ultra-fast Shell Sort gap sequence.</td>
+    <td><a href="https://github.com/wileylooper/meteorsort"><img alt="MeteorSort" src="https://github.com/wileylooper/wileylooper/blob/master/meteorsort.png" style="width: 40px;"></a></td>
+    <td><a href="https://github.com/wileylooper/meteorsort">MeteorSort</a> is a non-auxiliary, ultra-fast Shell Sort gap sequence.</td>
   </tr>
   <tr>
     <td><a href="https://wileylooper.medium.com/regressionsearch-an-ultra-fast-binary-search-9345ae27fe98"><img alt="RegressionSearch" src="https://github.com/wileylooper/wileylooper/blob/master/regressionsearch.png" style="width: 40px;"></a></td>
