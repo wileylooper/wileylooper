@@ -35,8 +35,8 @@
 
 <table>
   <tr>
-    <td><a href="https://wileylooper.medium.com/chargesearch-an-ultra-fast-linear-search-eefcc02e283b"><img alt="ChargeSearch" src="https://github.com/wileylooper/wileylooper/blob/master/chargesearch.png" style="width: 40px;"></a></td>
-    <td><a href="https://wileylooper.medium.com/chargesearch-an-ultra-fast-linear-search-eefcc02e283b">ChargeSearch</a> is an ultra-fast Linear Search.</td>
+    <td><a href="https://github.com/wileylooper/chargesearch"><img alt="ChargeSearch" src="https://github.com/wileylooper/wileylooper/blob/master/chargesearch.png" style="width: 40px;"></a></td>
+    <td><a href="https://github.com/wileylooper/chargesearch">ChargeSearch</a> is an ultra-fast Linear Search.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/wileylooper/meteorsort"><img alt="MeteorSort" src="https://github.com/wileylooper/wileylooper/blob/master/meteorsort.png" style="width: 40px;"></a></td>
