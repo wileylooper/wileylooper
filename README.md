@@ -43,8 +43,8 @@
     <td><a href="https://github.com/wileylooper/meteorsort">MeteorSort</a> is a non-auxiliary, ultra-fast Shell Sort gap sequence.</td>
   </tr>
   <tr>
-    <td><a href="https://wileylooper.medium.com/regressionsearch-an-ultra-fast-binary-search-9345ae27fe98"><img alt="RegressionSearch" src="https://github.com/wileylooper/wileylooper/blob/master/regressionsearch.png" style="width: 40px;"></a></td>
-    <td><a href="https://wileylooper.medium.com/regressionsearch-an-ultra-fast-binary-search-9345ae27fe98">RegressionSearch</a> is a non-interpolated, ultra-fast Binary Search.</td>
+    <td><a href="https://github.com/wileylooper/regressionsearch"><img alt="RegressionSearch" src="https://github.com/wileylooper/wileylooper/blob/master/regressionsearch.png" style="width: 40px;"></a></td>
+    <td><a href="https://github.com/wileylooper/regressionsearch">RegressionSearch</a> is a non-interpolated, ultra-fast Binary Search.</td>
   </tr>
 </table>
 
